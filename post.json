@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My frist blog",
+      "body": "Salom bu mening birinchi blogim",
+      "img":"https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 2,
+      "title": "My second blog",
+      "body": "Salom bu mening ikkinchi blogim",
+      "img":"https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 1625036661829,
+      "title": "My second blog",
+      "body": "Salom bu mening ikkinchi blogim",
+      "img":"https://via.placeholder.com/150/92c952"
+    }
+  ]
+}
